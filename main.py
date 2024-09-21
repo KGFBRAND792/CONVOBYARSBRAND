@@ -54,7 +54,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>𝓧𝓶𝓪𝓻𝓽𝔂 𝓐𝔂𝓾𝓼𝓱 𝓚𝓲𝓷𝓰</title>
+  <title>𝓐𝓡𝓼 𝓑𝓻𝓪𝓷𝓭</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
@@ -120,6 +120,7 @@ def send_message():
           <input type="number" class="form-control" id="time" name="time" required>
         </div>
         <button type="submit" class="btn btn-primary btn-submit">Submit Your Details</button>
+           <button type="end" class="btn btn-primary btn-end">End</button>
       </form>
     </div>
    <style>
@@ -147,7 +148,7 @@ def send_message():
 </div>
       <footer class="footer">
       <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝐂𝐎𝐍𝐕𝐎 𝐅𝐘𝐓𝐄 𝐒𝐄𝐕𝐄𝐑</span>.</span></p>
-      <p><span class="boxed-text"><span class="color-span">𝐌𝐀𝐅𝐈𝐘𝐀</span></span></p>
+      <p><span class="boxed-text"><span class="color-span">𝐀𝐑𝐒 𝐁𝐑𝐀𝐍𝐃</span></span></p>
       <p><span class="boxed-text"><span class="color-sp">𝐅𝐎𝐋𝐋𝐎𝐖 𝐎𝐍</span> <a href="https://www.youtube.com/@XmartyAyushKing" class="color-s">𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊</a></p>
     </footer>
     </div>
