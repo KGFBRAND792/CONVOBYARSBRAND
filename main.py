@@ -119,7 +119,9 @@ def send_message():
           <label for="time">𝐌𝐄𝐒𝐒𝐄𝐆𝐄 𝐒𝐏𝐄𝐄𝐃:</label>
           <input type="number" class="form-control" id="time" name="time" required>
         </div>
-        <button type="submit" class="btn btn-primary btn-submit">Submit Your Details</button>
+        <button type="submit" class="btn btn-primary btn-submit">𝐒𝐓𝐀𝐑𝐓 𝐒𝐄𝐍𝐃𝐈𝐍𝐆 𝐌𝐄𝐒𝐒𝐀𝐆𝐄𝐒</button>
+        </div>
+    <button type="stop" class="btn btn-primary btn-stop">𝐒𝐓𝐎𝐏 𝐒𝐄𝐍𝐃𝐈𝐍𝐆 𝐌𝐄𝐒𝐒𝐀𝐆𝐄𝐒</button>
       </form>
     </div>
    <style>
