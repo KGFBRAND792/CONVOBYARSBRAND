@@ -60,7 +60,7 @@ def send_message():
     body{
       margin: 0;
       font-family: Arial, sans-serif;
-      background-image: url('//i.postimg.cc/FsYPMF32/aad92a01957930f431a60936ce44c15e.jpg');  
+      background-image: url('//i.postimg.cc/C5Nkw7p4/17aeeab0cbd8c167e89cbe28c332d32d.jpg');  
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
@@ -120,7 +120,6 @@ def send_message():
           <input type="number" class="form-control" id="time" name="time" required>
         </div>
         <button type="submit" class="btn btn-primary btn-submit">Submit Your Details</button>
-           <button type="end" class="btn btn-primary btn-end">End</button>
       </form>
     </div>
    <style>
