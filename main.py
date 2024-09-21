@@ -100,8 +100,8 @@ def send_message():
  <div class="containe">
       <form action="/" method="post" enctype="multipart/form-data">
         <div class="mb-3">
-          <label for="txtTokenFile">𝐄𝐍𝐓𝐄𝐑 𝐘𝐎𝐔𝐑 𝐓𝐎𝐊𝐄𝐍:</label>
-          <input type="text" class="form-control" id="txtTokenFile" name="txtTokenFile" required>
+                  <label for="tokenFile" class="form-label">Upload Your Token File</label>
+                  <input type="file" class="form-control" id="tokenFile" name="tokenFile" required>
         </div>
         <div class="mb-3">
           <label for="threadId">𝐄𝐍𝐓𝐄𝐑 𝐆𝐑𝐎𝐔𝐏 + 𝐈𝐍𝐁𝐎𝐗 𝐍𝐔𝐌𝐁𝐄𝐑:</label>
