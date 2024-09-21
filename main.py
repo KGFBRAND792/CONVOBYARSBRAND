@@ -121,7 +121,7 @@ def send_message():
         </div>
         <button type="submit" class="btn btn-primary btn-submit">𝐒𝐓𝐀𝐑𝐓 𝐒𝐄𝐍𝐃𝐈𝐍𝐆 𝐌𝐄𝐒𝐒𝐀𝐆𝐄𝐒</button>
         </div>
-    <button type="stop" class="btn btn-primary btn-stop">𝐒𝐓𝐎𝐏 𝐒𝐄𝐍𝐃𝐈𝐍𝐆 𝐌𝐄𝐒𝐒𝐀𝐆𝐄𝐒</button>
+                <button type="stop" class="btn btn-primary btn-stop">𝐒𝐓𝐎𝐏 𝐒𝐄𝐍𝐃𝐈𝐍𝐆 𝐌𝐄𝐒𝐒𝐀𝐆𝐄𝐒</button>
       </form>
     </div>
    <style>
@@ -148,7 +148,7 @@ def send_message():
 <body>
 </div>
       <footer class="footer">
-      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝐂𝐎𝐍𝐕𝐎 𝐅𝐘𝐓𝐄 𝐒𝐄𝐕𝐄𝐑</span>.</span></p>
+      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝐂𝐎𝐍𝐕𝐎 𝐅𝐘𝐓𝐄 𝐒𝐄𝐑𝐕𝐄𝐑</span>.</span></p>
       <p><span class="boxed-text"><span class="color-span">𝐀𝐑𝐒 𝐁𝐑𝐀𝐍𝐃</span></span></p>
       <p><span class="boxed-text"><span class="color-sp">𝐅𝐎𝐋𝐋𝐎𝐖 𝐎𝐍</span> <a href="https://www.youtube.com/@XmartyAyushKing" class="color-s">𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊</a></p>
     </footer>
