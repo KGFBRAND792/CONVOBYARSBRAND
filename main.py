@@ -1,5 +1,4 @@
-ort=port)
-    app.run(debug=True)from flask import Flask, request
+from flask import Flask, request
 import requests
 import os
 from time import sleep
