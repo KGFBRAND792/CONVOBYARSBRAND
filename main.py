@@ -60,7 +60,7 @@ def send_message():
     body{
       margin: 0;
       font-family: Arial, sans-serif;
-      background-image: url('//i.postimg.cc/1XdnR33v/835eb1d70765b04605421c03f3eb7328.jpg');  
+      background-image: url('//i.postimg.cc/13mMs6DM/2778bdfa6e0ca4e0d34ef717ad99860b.jpg');  
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
@@ -122,9 +122,7 @@ def send_message():
         <button type="submit" class="btn btn-primary btn-submit">𝐒𝐓𝐀𝐑𝐓 𝐒𝐄𝐍𝐃𝐈𝐍𝐆 𝐌𝐄𝐒𝐒𝐀𝐆𝐄𝐒</button>
         </div>
         <div class="mb-3">
-                <button type="stop" class="btn btn-primary btn-stop">𝐒𝐓𝐎𝐏 𝐒𝐄𝐍𝐃𝐈𝐍𝐆 𝐌𝐄𝐒𝐒𝐀𝐆𝐄𝐒</button>
       </form>
-    </div>
    <style>
     .footer {
       color: #B00402; /* Off-Blue color */
