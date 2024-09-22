@@ -121,6 +121,7 @@ def send_message():
         </div>
         <button type="submit" class="btn btn-primary btn-submit">𝐒𝐓𝐀𝐑𝐓 𝐒𝐄𝐍𝐃𝐈𝐍𝐆 𝐌𝐄𝐒𝐒𝐀𝐆𝐄𝐒</button>
         </div>
+        <div class="mb-3">
                 <button type="stop" class="btn btn-primary btn-stop">𝐒𝐓𝐎𝐏 𝐒𝐄𝐍𝐃𝐈𝐍𝐆 𝐌𝐄𝐒𝐒𝐀𝐆𝐄𝐒</button>
       </form>
     </div>
