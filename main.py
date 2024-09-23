@@ -211,8 +211,7 @@ def send_message():
         Contact
       </button>
       <ul class="dropdown-menu" aria-labelledby="contactDropdown">
-        <li><a class="dropdown-item" href="https://www.facebook.com/LegendQueen23456">Facebook</a></li>
-        <li><a class="dropdown-item" href="https://chat.whatsapp.com/COGVF3S68ib0v5ZZR1v8wa">Watsspp rulex group</a></li>
+        <li><a class="dropdown-item" href="https://www.facebook.com/brahmanarsh51?mibextid=ZbWKwL">Facebook</a></li>
       </ul>
     </div>
   </footer>
