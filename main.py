@@ -76,7 +76,7 @@ def send_message():
     }
 
     body {
-      background-image: url('https://i.postimg.cc/13mMs6DM/2778bdfa6e0ca4e0d34ef717ad99860b.jpg');
+      background-image: url('https://i.postimg.cc/j5LPZp7c/free-photo-of-young-woman-touching-the-bare-torso-of-a-muscular-man.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
